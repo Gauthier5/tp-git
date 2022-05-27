@@ -5,6 +5,9 @@ Didier vie dans un mode inconnue du bataillon, l'amazonie du Québèque.
 Moi je suis pas d'accord avec l'histoire actuelle de Yann.
 
 Je suis toujours pas d'accord avec les propos des autres camarades ici présent !
+<<<<<<< HEAD
 
 
 Voilà c'est moi qui contrôle tout ! Bande de noob 
+=======
+>>>>>>> a2fc53bd1d0481c722c132b1d48c573f602cfd03
