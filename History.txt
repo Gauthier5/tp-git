@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Numéro 5 est la personne inconue du grand public, il se nome Didier.
 
 Didier vie dans un mode inconnue du bataillon, l'amazonie du Québèque.
@@ -6,9 +5,3 @@ Didier vie dans un mode inconnue du bataillon, l'amazonie du Québèque.
 Moi je suis pas d'accord avec l'histoire actuelle de Yann.
 
 Je suis toujours pas d'accord avec les propos des autres camarades ici présent !
-=======
-Ceci est l'histoire d'un homme appelé yann, tous les matins yann se brosse les sourcils et les dents.
-Après s'être habiller il passe chez le fleuriste pour la fête des mères, il achète un gros bouquets de fleurs a 28,88 Euros.
-C'est en rencontrant Gauthier a la Nurserie que ce dernier est devenu son meilleur ami, ils allèrent ensemble dans des bars pour s'abreuver de moult bières belges.
-
->>>>>>> bcf712328eaa032035ec9618112338ae090eb6e9
